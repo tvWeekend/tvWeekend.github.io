@@ -1008,7 +1008,8 @@ code {
 }
 .article-summary .article-summary-inner .article-title {
   margin-bottom: 10px;
-  font-size: 22px;
+  font-size: 18px;
+  letter-spacing: 1px;
   font-weight: 400;
   line-height: 1.5em;
   word-wrap: break-word;
@@ -1048,7 +1049,7 @@ code {
 .article-title {
   text-decoration: none;
   font-size: 38px;
-  letter-spacing: -1px;
+  letter-spacing: 0px;
   color: #555;
   line-height: 1.3em;
   -webkit-transition: color 0.2s;
